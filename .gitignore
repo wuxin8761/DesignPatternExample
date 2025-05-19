@@ -1,0 +1,22 @@
+# 忽略所有 bin 和 obj 目录（递归）
+**/[Bb]in/
+**/[Oo]bj/
+
+# 忽略 Visual Studio 用户配置文件
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 忽略 Rider 配置文件
+.idea/
+*.iml
+*.dotSettings
+*.vs/
+
+# 忽略 NuGet 包和输出目录
+packages/
+*.nupkg
+
+# VS Code 配置
+.vscode/
