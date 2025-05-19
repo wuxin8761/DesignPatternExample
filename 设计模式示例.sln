@@ -1,7 +1,5 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1简单工厂模式", "1简单工厂模式\1简单工厂模式.csproj", "{E705E4CC-39F3-4EFA-8AD3-F5244DB97BA9}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.策略模式", "2.策略模式\2.策略模式.csproj", "{49EBB5EC-B260-4FEA-9E50-969D75FA6A10}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.单一职责原则", "3.单一职责原则\3.单一职责原则.csproj", "{696A289B-284B-4D84-835B-86304902D547}"
@@ -56,16 +54,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.开放-封闭原则", "4.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21.单例模式", "21.单例模式\21.单例模式.csproj", "{3260436F-F5CA-403F-8EF9-28C82BF3BD1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.简单工厂模式", "1.简单工厂模式\1.简单工厂模式.csproj", "{689CA9BC-F697-469B-8024-BE7CE0948F43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E705E4CC-39F3-4EFA-8AD3-F5244DB97BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E705E4CC-39F3-4EFA-8AD3-F5244DB97BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E705E4CC-39F3-4EFA-8AD3-F5244DB97BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E705E4CC-39F3-4EFA-8AD3-F5244DB97BA9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{49EBB5EC-B260-4FEA-9E50-969D75FA6A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{49EBB5EC-B260-4FEA-9E50-969D75FA6A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49EBB5EC-B260-4FEA-9E50-969D75FA6A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -174,5 +170,9 @@ Global
 		{3260436F-F5CA-403F-8EF9-28C82BF3BD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3260436F-F5CA-403F-8EF9-28C82BF3BD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3260436F-F5CA-403F-8EF9-28C82BF3BD1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{689CA9BC-F697-469B-8024-BE7CE0948F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{689CA9BC-F697-469B-8024-BE7CE0948F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{689CA9BC-F697-469B-8024-BE7CE0948F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{689CA9BC-F697-469B-8024-BE7CE0948F43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
